@@ -1,0 +1,26 @@
+{
+  "name": "olga",
+  "version": "0.0.0",
+  "description": "opensource license generating app",
+  "main": "index.js",
+  "bin": {
+    "olga": "olga.js"
+  },
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jarofghosts/olga.git"
+  },
+  "keywords": [
+    "license",
+    "generator"
+  ],
+  "author": "jesse keane",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jarofghosts/olga/issues"
+  },
+  "homepage": "https://github.com/jarofghosts/olga"
+}
